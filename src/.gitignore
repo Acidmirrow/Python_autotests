@@ -1,0 +1,14 @@
+# Виртуальные окружения
+venv/
+.env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Конфиги и временные файлы
+.DS_Store
+*.log
+
+# VS Code
+.vscode/
